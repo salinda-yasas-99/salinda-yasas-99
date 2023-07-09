@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salinda Yasas</h1>
 
-<h3 align="center">Full-Stack Developer | University OF MORATUWA | IT Undergraduate </h3>
+<h3 align="center">Full-Stack Developer | University Of Moratuwa | IT Undergraduate </h3>
 
 ##
 
