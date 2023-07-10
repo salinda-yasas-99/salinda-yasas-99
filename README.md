@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on ** Full Stack Web Projects **
 
-- 💬 Ask me about **Java,ReactJS, HTML&CSS, JS, **
+- 💬 Ask me about **Java, HTML&CSS, JS, **
 
 - 📫 How to reach me **salindayasasofficial@gmail.com** | **https://salinda-yasas-official.web.app/**
 
