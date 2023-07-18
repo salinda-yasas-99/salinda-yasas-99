@@ -16,14 +16,25 @@
 [<img align="left" alt="Salinda Yasas | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <!--[<img align="left" alt="Salinda Yasas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 <br/>
+
+  <br/>
+  
 ## 📊 My Github Stats
 ![Salinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=salinda-yasas-99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+
+##
+
+
+
+
+
 <!--
 ## 📊 My Github Stats
 
   <br/>
   
-
+## 📊 My Github Stats
+![Salinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=salinda-yasas-99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salinda-yasas-99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 ##
