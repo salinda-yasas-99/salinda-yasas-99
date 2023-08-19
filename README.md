@@ -18,7 +18,7 @@
 <br/>
 
   <br/>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salinda-yasas-99&label=Profile%20views&color=0e75b6&style=flat" alt="salinda-yasas-99" /> </p>
   
 <!--  
 ## 📊 My Github Stats
