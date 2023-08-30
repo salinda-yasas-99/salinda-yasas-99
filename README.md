@@ -31,8 +31,8 @@
   <br/>
   
 ## 📊 My Github Stats
-![Salinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=salinda-yasas-99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salinda-yasas-99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Salinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=salinda-yasas-99&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=2E3440)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salinda-yasas-99&langs_count=8&count_private=true&layout=compact&theme=nord&hide_border=true&bg_color=2E3440)
 
 ##
 
