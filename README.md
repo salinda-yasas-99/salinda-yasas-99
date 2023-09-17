@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salinda Yasas</h1>
+<h1 align="center">Hi 👋, I'm Salinda Yasas 123</h1>
 
 <h3 align="center">Full-Stack Developer | University Of Moratuwa | IT Undergraduate </h3>
 
