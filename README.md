@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Salinda Yasas</h1>
 
-<h3 align="center">Full-Stack Developer | University Of Moratuwa | IT Undergraduate </h3>
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 ##
 
 - 👯 I’m looking to collaborate on ** Full Stack Web Projects **
 
-- 📫 How to reach me **salindayasasofficial@gmail.com** | **https://salinda-yasas-official.web.app/**
+- 📫 How to reach me **salindayasasofficial@gmail.com** | **https://salinda-yasas.web.app/**
 
 
 ## Connect with me:
